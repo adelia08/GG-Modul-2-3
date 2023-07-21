@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "My Playlist",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Malibu Night",
+        "artists": ["LANNY"],
+        "album": "Album 1",
+        "playCount": 100
+      }
+    ]
+  }
+]
